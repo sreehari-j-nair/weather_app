@@ -4,7 +4,7 @@ A simple and elegant weather application built using Django. This web app retrie
 
 ✨ **Features
 
-  -Get real-time weather information for any city.
+  +Get real-time weather information for any city.
   -Displays:
     -Current temperature (in Celsius).
     -Weather description (e.g., clear sky, moderate rain, etc.).
